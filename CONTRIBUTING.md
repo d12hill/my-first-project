@@ -1,4 +1,4 @@
-# How to Contribute
+# How to Contribute Daviie
 
 1. Fork the project
 2. Work on a feature branch
